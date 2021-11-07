@@ -1,0 +1,77 @@
+.aboutContainer {
+  background: #F5F5F5;
+  /* display: flex; */
+  padding-top: 64px;
+  font-family: -apple-system,system-ui;
+}
+
+.about_card {
+  width: 70%;
+  margin: auto;
+  padding: 45px;
+  background: #ffff;
+  display: flex;
+  height: 74vh;
+  padding-bottom: 20px;
+  margin-top: 80px;
+}
+
+.about_card .about_left {
+  flex: 0.5;
+}
+
+.about_card .about_left .about_left_header {
+  display: flex;
+}
+
+.about_card .about_left .about_left_header .image {
+  padding-bottom: 15px;
+  flex: 0.4;
+}
+
+.about_card .about_left .about_left_header .details {
+  padding-bottom: 15px;
+  flex: 0.6;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-between; */
+}
+
+.about_card .about_left .about_left_body {
+  height: 45vh;
+  /* display: flex; */
+}
+
+.about_card .about_left .about_left_body .about_left_title {
+  display: flex;
+  flex-direction: column;
+  /* display: flex; */
+}
+
+.about_card .about_left .about_left_body .about_left_title  > div {
+  margin: 5px 0px;
+}
+
+.about_card .about_left .about_left_header .details > div{
+  margin-bottom: 16px;
+  display: flex;
+  font-size: 17.6px;
+  letter-spacing: 1.5px;
+}
+
+
+.about_card .about_right {
+  display: flex;
+  justify-content: space-around;
+  flex: 0.5;
+}
+
+.about_right {
+  display: flex;
+  flex-direction: column;
+}
+
+.about_right h1 {
+  border-bottom: 2px solid cyan;
+  border-width: 30%;
+}
