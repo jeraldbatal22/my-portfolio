@@ -50,6 +50,11 @@ const AboutMe = () => {
                 <p>JAVASCRIPT</p>
                 <span>-----------------------------------------------------------------------------------</span>
               </div>
+
+              <div>
+                <p>RUBY ON RAILS</p>
+                <span>-----------------------------------------------------------------------------------</span>
+              </div>
             </div>
             <h1>Exposure</h1>
             <div className="about_left_title">
@@ -73,9 +78,9 @@ const AboutMe = () => {
         </div>
         <div className="about_right">
           <h1>About Me</h1>
-          <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.</p>
-          <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.</p>
-          <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.</p>
+          <p>Hello, my name is Jerald you can call me jb jer or rald, I am 4 years graduate of Bachelor of Science in Hotel and Restuarant Management. I am a career shifteer into software engineer career which I develop my skills and knowledge when it comes to coding and I realized that I have my fashion to build and published a website.</p>
+          <p>My career goals is to become one of the most professional web developer and be a fullstack developer someday.</p>
+          <p>My hobies is playing basketball , mobile games, computer games, instrumental guitar which I arranged that makes me feel relaxing and I Also watching K Drama, Netflix movies when I feel stuck or bored to code.</p>
         </div>
       </div>
     </div >
