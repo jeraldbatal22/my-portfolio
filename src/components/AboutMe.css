@@ -6,8 +6,8 @@
 }
 
 .about_card {
-  width: 70%;
   margin: auto;
+  width: 70%;
   padding: 45px;
   background: #ffff;
   display: flex;
@@ -34,25 +34,12 @@
 .about_card .about_left .about_left_header .details {
   padding-bottom: 15px;
   flex: 0.6;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: space-between; */
 }
 
-/* .about_card .about_left .about_left_body {
-  display: flex;
-} */
-/* 
-.about_card .about_left .about_left_body .about_left_title {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  width: 100%;
-  display: flex;
-} */
-
-/* .about_card .about_left .about_left_body .about_left_title  > div {
-} */
+.details span, .details strong {
+  margin-right: 5px;
+  font-size: 15px;
+}
 
 .about_card .about_left .about_left_header .details > div{
   margin-bottom: 16px;
@@ -65,17 +52,19 @@
 
 .about_card .about_right {
   display: flex;
-  justify-content: space-evenly;
+  /* justify-content: space-evenly; */
   flex: 0.5;
 }
 
 .about_right {
   display: flex;
   flex-direction: column;
+  margin-top: 200px;
 }
 
 .about_right h1 {
   border-bottom: 2px solid cyan;
+  margin-bottom: 50px;
   border-width: 30%;
 }
 
@@ -83,12 +72,13 @@
   width: 100%;
 }
 
+.about_left_title .reactJs {
+  position: relative;
+  margin: 2px 0px;
+  width: 90%;
+}
 
 @media (max-width:840px) { 
-  .about_card {
-    width: 90%;
-  }
-
   /* .about_left_header {
     justify-content: center;
   } */
@@ -98,7 +88,11 @@
   } */
     
   .about_card {
-    padding: 70px;
+    width: 95%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
   }
 }
 

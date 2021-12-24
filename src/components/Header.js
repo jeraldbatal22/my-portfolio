@@ -10,7 +10,7 @@ const Header = () => {
           <li><a href="#App">Home</a></li>
           <li><a href="#aboutContainer">About</a></li>
           <li><a href="#project_container">Project</a></li>
-          <li><a href="#App">Contact</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
       <div className="header_mobile_container">

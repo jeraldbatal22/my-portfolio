@@ -76,7 +76,19 @@
 }
 
 .project_source p , .project_title h4{
-  margin: 8px 0px;
+  margin: 15px 0px;
+}
+
+.project_source a {
+  text-decoration: none;
+  color: #ffff;
+  padding: 5px 10px;
+  margin-left: 10px;
+  background-color: #000;  
+}
+
+.project_source a:hover {
+  padding: 7px 12px;
 }
 
 .project_title h4 {

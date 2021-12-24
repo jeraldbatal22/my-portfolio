@@ -1,0 +1,96 @@
+footer {
+  height: 35vh;
+  background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,1));
+}
+
+.footerContent {
+  padding: 30px 0px 0px 0px;
+  width: 70%;
+  margin: auto;
+  color: #ffff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.centerFooter {
+  display: flex;
+  flex-direction: column;
+}
+
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+  padding: 5px;
+}
+
+.formGroup label {
+  letter-spacing: .9px;
+  text-align: start;
+  margin-bottom: 10px;
+}
+
+.formGroup button, .formGroup input {
+  padding: 8px;
+}
+
+.formGroup button {
+  cursor: pointer;
+  background-color: antiquewhite;
+  border: none;
+  font-weight: 700;
+}
+
+.formGroup button:hover {
+  background: #fff;
+}
+
+.leftFooter, .rightFooter, .centerFooter {
+  text-align: center;
+  flex: 1;
+}
+
+.leftFooter {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.leftFooter label {
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+.leftFooter .groupIcon {
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.leftFooter .groupIcon a {
+  color: #ffff;
+}
+
+.leftFooter .groupIcon i {
+  margin-right: 20px;
+}
+
+.rightFooter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.rightFooter h1 {
+  margin-bottom: 20px;
+}
+
+.rightFooter p {
+  font-family:'Times New Roman', Times, serif;
+  letter-spacing: .7px;
+}
+
+textarea:focus, input:focus{
+  outline: none;
+}
