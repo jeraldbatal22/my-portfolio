@@ -1,10 +1,10 @@
 footer {
-  height: 35vh;
+  height: 40vh;
   background-image:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,1));
 }
 
 .footerContent {
-  padding: 30px 0px 0px 0px;
+  padding: 15px 0px 15px 0px;
   width: 70%;
   margin: auto;
   color: #ffff;
@@ -87,7 +87,6 @@ footer {
 }
 
 .rightFooter p {
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   letter-spacing: .7px;
 }
 
@@ -97,6 +96,10 @@ textarea:focus, input:focus{
 
 
 @media (max-width:840px) { 
+  .rightFooter {
+    display: none;
+  }
+
   .footerContent {
     flex-wrap: wrap;
     justify-content: center;

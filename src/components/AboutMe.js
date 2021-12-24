@@ -42,8 +42,8 @@ const AboutMe = () => {
               <div>
                 <p>CSS</p>
                 <p className="reactJs">
-                  <strong style={{ backgroundColor: 'cyan', padding: '0px 0px 0px 65%', borderRadius: '50px' }}></strong>
-                  <strong style={{ color: 'gray', position: 'absolute', right: '0' }}>65%</strong>
+                  <strong style={{ backgroundColor: 'cyan', padding: '0px 0px 0px 70%', borderRadius: '50px' }}></strong>
+                  <strong style={{ color: 'gray', position: 'absolute', right: '0' }}>70%</strong>
                 </p>
               </div>
 

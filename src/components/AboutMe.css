@@ -2,7 +2,6 @@
   background: #F5F5F5;
   /* display: flex; */
   padding-top: 64px;
-  font-family: -apple-system,system-ui;
 }
 
 .about_card {
@@ -38,15 +37,13 @@
 
 .details span, .details strong {
   margin-right: 5px;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .about_card .about_left .about_left_header .details > div{
   margin-bottom: 16px;
   display: flex;
   flex-wrap: wrap;
-  font-size: 17.6px;
-  letter-spacing: 1.5px;
 }
 
 
@@ -63,15 +60,15 @@
 }
 
 .about_right h1 {
-  text-transform: uppercase;
   border-bottom: 2px solid cyan;
   margin-bottom: 50px;
   border-width: 30%;
+  font-weight: 600;
 }
 
 .about_right p {
   font-size: 20px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
   width: 100%;
 }
 

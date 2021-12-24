@@ -15,7 +15,7 @@ const Header = () => {
       </div>
       <div className="header_mobile_container">
         <h1>JeraldDev</h1>
-        <li><i class="fas fa-bars"></i></li>
+        <li><i className="fas fa-bars"></i></li>
       </div>
     </header>
   )
