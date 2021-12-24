@@ -87,10 +87,22 @@ footer {
 }
 
 .rightFooter p {
-  font-family:'Times New Roman', Times, serif;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   letter-spacing: .7px;
 }
 
 textarea:focus, input:focus{
   outline: none;
+}
+
+
+@media (max-width:840px) { 
+  .footerContent {
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+    footer {
+      height: 80vh;
+    }
 }

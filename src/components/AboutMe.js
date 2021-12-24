@@ -101,9 +101,9 @@ const AboutMe = () => {
         </div>
         <div className="about_right">
           <h1>About Me</h1>
-          <p>Hello, my name is Jerald you can call me jb jer or rald, I am 4 years graduate of Bachelor of Science in Hotel and Restuarant Management. I am a career shifteer into software engineer career which I develop my skills and knowledge when it comes to coding and I realized that I have my fashion to build and published a website.
+          <p>Hello, my name is Jerald you can call me jb jer or rald, I am 4 years graduate of Bachelor of Science in Hotel and Restuarant Management. I am a career shifteer into software engineer career which I develope my skills and knowledge when it comes to coding and I realized that I have my fashion to build and published a website.
             My career goals is to become one of the most professional web developer and be a fullstack developer someday.
-            My hobies is playing basketball , mobile games, computer games, instrumental guitar which I arranged that makes me feel relaxing and I Also watching K Drama, Netflix movies when I feel stuck or bogray to code.
+            My hobbies is playing basketball , mobile games, computer games, instrumental guitar which I arranged that makes me feel relaxing and I Also watching K Drama, Netflix movies when I feel stuck or boring to code.
           </p>
         </div>
       </div>

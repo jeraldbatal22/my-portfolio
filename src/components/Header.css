@@ -31,6 +31,10 @@
   cursor: pointer;
 }
 
+.header_mobile_container i {
+  font-size: 30px;
+}
+
 
 .header_container ul li a:focus {
   border-bottom: 2px solid black;

@@ -15,7 +15,7 @@ const Header = () => {
       </div>
       <div className="header_mobile_container">
         <h1>JeraldDev</h1>
-        <li><a href="/">#</a></li>
+        <li><i class="fas fa-bars"></i></li>
       </div>
     </header>
   )

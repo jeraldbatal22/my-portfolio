@@ -16,11 +16,17 @@
 }
 
 .title_container .title_body h1  {
-  font-size: 72px;
+  font-size: 65px;
 }
 
 .title_container .title_body h2  {
   font-size: 40px;
+}
+
+@media (max-width:840px) { 
+  .title_container .title_body h1  {
+      font-size: 45px;
+    }
 }
 
 /* .container{

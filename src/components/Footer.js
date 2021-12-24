@@ -12,10 +12,10 @@ const Footer = () => {
         <div className='leftFooter'>
           <label>Socail Media Platform</label>
           <div className='groupIcon'>
-            <a href="https://www.facebook.com/jeraldbatal22"><i class="fab fa-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/jeraldbatal/"><i class="fab fa-linkedin"></i></a>
-            <a href="https://www.instagram.com/jeraldbatal22/"><i class="fab fa-instagram"></i></a>
-            <a href="https://github.com/jeraldbatal22"><i class="fab fa-github"></i></a>
+            <a href="https://www.facebook.com/jeraldbatal22"><i className="fab fa-facebook"></i></a>
+            <a href="https://www.linkedin.com/in/jeraldbatal/"><i className="fab fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/jeraldbatal22/"><i className="fab fa-instagram"></i></a>
+            <a href="https://github.com/jeraldbatal22"><i className="fab fa-github"></i></a>
 
           </div>
         </div>

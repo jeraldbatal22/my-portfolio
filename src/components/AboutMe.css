@@ -59,16 +59,19 @@
 .about_right {
   display: flex;
   flex-direction: column;
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 .about_right h1 {
+  text-transform: uppercase;
   border-bottom: 2px solid cyan;
   margin-bottom: 50px;
   border-width: 30%;
 }
 
-.about_right h1 p {
+.about_right p {
+  font-size: 20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   width: 100%;
 }
 
