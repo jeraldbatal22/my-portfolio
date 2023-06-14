@@ -55,7 +55,7 @@ const Projects = () => {
                     </div>
                   </div>
                 </div>
-                <h4>Javascript</h4>
+                <h4>Html Css and Javascript</h4>
                 <div className="image">
                   <div>
                     <a href="https://jeraldbatal22.github.io/batch9-activities/momentum_app/" data-title="Click to see live Momentum App"><img src={momentum} alt="" height="240" width="400" /></a>
@@ -115,7 +115,6 @@ const Projects = () => {
           </div>
           <div className="backend_project">
             <div>
-              <h1>Backend Project</h1>
               <div className="project_title">
                 <h4>Ruby On Rails</h4>
                 <div className="image">
@@ -124,7 +123,7 @@ const Projects = () => {
                     <h4>Qoutes App</h4>
                     <div className="project_source">
                       <p>SEE LIVE<a href="https://my-qoutes-app.herokuapp.com/">CLICK HERE</a> </p>
-                      <p>SOURCE CODE <a href="https://github.com/jeraldbatal22/qoutes_app">CLICK HERE.</a> </p>
+                      <p>SOURCE CODE <a href="https://github.com/jeraldbatal22/qoutes_app">CLICK HERE</a> </p>
                     </div>
                   </div>
                   <div>

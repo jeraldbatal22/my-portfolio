@@ -101,9 +101,7 @@ const AboutMe = () => {
         </div>
         <div className="about_right">
           <h1>About Me</h1>
-          <p>Hello, my name is Jerald you can call me jb jer or rald, I am 4 years graduate of Bachelor of Science in Hotel and Restuarant Management. I am a career shifteer into software engineer career which I develope my skills and knowledge when it comes to coding and I realized that I have my fashion to build and published a website.
-            My career goals is to become one of the most professional web developer and be a fullstack developer someday.
-            My hobbies is playing basketball , mobile games, computer games, instrumental guitar which I arranged that makes me feel relaxing and I Also watching K Drama, Netflix movies when I feel stuck or boring to code.
+          <p>Hello, my name is Jerald. You can call me JB, Jer, or Rald. I am 4 years graduated in Bachelor of Science degree in Hotel and Restaurant Management. I recently made a career shift into the field of software engineering to further develop my coding skills and knowledge. I discovered a passion for building and publishing websites along the way. My career goal is to become a highly skilled and professional web developer, with aspirations of becoming a full-stack developer in the future. In my free time, I enjoy playing basketball, mobile games, and computer games. I also find relaxation in playing the guitar instrumentally and arranging music. Additionally, I like to watch K-Dramas and Netflix movies when I feel stuck or bored with coding.
           </p>
         </div>
       </div>
